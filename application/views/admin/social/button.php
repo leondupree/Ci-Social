@@ -1,0 +1,1 @@
+<a href="<?php echo $url;?>"><button><?php echo $text;?></button></a>
